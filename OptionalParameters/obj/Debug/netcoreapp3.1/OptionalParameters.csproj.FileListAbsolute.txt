@@ -1,0 +1,13 @@
+G:\Visual Studio\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.exe
+G:\Visual Studio\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.deps.json
+G:\Visual Studio\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.json
+G:\Visual Studio\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.dev.json
+G:\Visual Studio\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.dll
+G:\Visual Studio\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.pdb
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csprojAssemblyReference.cache
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfoInputs.cache
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfo.cs
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csproj.CoreCompileInputs.cache
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.dll
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.pdb
+G:\Visual Studio\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.genruntimeconfig.cache
